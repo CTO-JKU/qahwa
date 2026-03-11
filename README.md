@@ -1,4 +1,4 @@
-# Coffee Tracker — Backend & Dashboard
+# qahwa - Backend & Dashboard
 
 Node.js + Express server with SQLite database and server-rendered web dashboard.
 
